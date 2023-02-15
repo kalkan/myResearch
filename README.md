@@ -27,6 +27,9 @@ Bilimsel araştırma derlemelerim için repo
 * https://app.grammarly.com/
 * https://quillbot.com/
 
+# Paraphraser
+* https://quillbot.com/
+
 # Journals
 
 ## SCI
