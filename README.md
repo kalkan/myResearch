@@ -12,7 +12,9 @@ Bilimsel araştırma derlemelerim için repo
 * Bilim Teknik Uzaktan Algılama Yazım: https://bilimteknik.tubitak.gov.tr/system/files/makale/72_81_uzaktan_algilama.pdf
 
 # My Articles (SCI)
-* https://link.springer.com/article/10.1007/s12524-021-01319-4
+* Ahmadi, H., Kalkan, K. Mapping of Ophiolitic Complex in Logar and Surrounding Areas (SE Afghanistan) With ASTER Data. J Indian Soc Remote Sens 49, 1271–1284 (2021). https://doi.org/10.1007/s12524-021-01319-4
+* Kalkan, K., Maktav, M.D. A Cloud Removal Algorithm to Generate Cloud and Cloud Shadow Free Images Using Information Cloning. J Indian Soc Remote Sens 46, 1255–1264 (2018). https://doi.org/10.1007/s12524-018-0806-y
+* Nasery, S., Kalkan, K. Snow avalanche risk mapping using GIS-based multi-criteria decision analysis: the case of Van, Turkey. Arab J Geosci 14, 782 (2021). https://doi.org/10.1007/s12517-021-07112-4
 
 # My Academic Profiles
 * ResearchGate - https://www.researchgate.net/profile/Kaan_Kalkan
