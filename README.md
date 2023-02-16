@@ -8,9 +8,10 @@ Bilimsel araştırma derlemelerim için repo
 # Check Lists
 * https://user.ceng.metu.edu.tr/~gcinbis/checklists.html
 
-# My Articles
+# Magazine
+* Bilim Teknik Uzaktan Algılama Yazım: https://bilimteknik.tubitak.gov.tr/system/files/makale/72_81_uzaktan_algilama.pdf
 
-* https://bilimteknik.tubitak.gov.tr/system/files/makale/72_81_uzaktan_algilama.pdf
+# My Articles (SCI)
 * https://link.springer.com/article/10.1007/s12524-021-01319-4
 
 # My Academic Profiles
