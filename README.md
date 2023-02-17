@@ -54,3 +54,5 @@ Bilimsel araştırma derlemelerim için repo
 * Overleaf - https://www.overleaf.com/
 * Symbols - https://www.caam.rice.edu/~heinken/latex/symbols.pdf
 * Tutorial - https://www.youtube.com/watch?v=RH_DuMLI66c
+
+# Reviews
