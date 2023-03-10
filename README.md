@@ -33,6 +33,10 @@ Bilimsel araştırma derlemelerim için repo
 # Paraphraser
 * https://quillbot.com/
 
+# Paper Analyze
+* https://www.researchrabbit.ai/
+* https://www.connectedpapers.com/
+
 # Journals
 
 ## SCI
